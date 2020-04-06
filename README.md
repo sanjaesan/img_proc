@@ -1,1 +1,1 @@
-# img_proc
+# Image processing functions
